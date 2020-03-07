@@ -1,6 +1,7 @@
 {
-  "name": "nodeapp",
-  "version": "0.0.0",
+  "name": "node-app-crud",
+  "version": "1.0.0",
+  "author":"AdagioDev",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
